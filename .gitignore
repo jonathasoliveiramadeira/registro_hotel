@@ -1,0 +1,15 @@
+# Python / Django
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
+
+# Django
+*.log
+
+# Node / React / Vite
+node_modules/
+dist/
+
+# Ambiente
+.env
